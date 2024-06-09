@@ -1,3 +1,4 @@
+![dash 1](https://github.com/isatul/Air-Quality/assets/150124019/13e049a7-1fec-4eb8-89a5-819d2a3a39b8)
 # Air-Quality
 Air quality is a critical aspect of urban life, influencing public health, environmental policies, and overall quality of life. Recently, I had the opportunity to analyze a comprehensive dataset on New York City's air quality, sourced from data.cityofnewyork.us. This dataset contained various columns such as Unique Id, Indicator ID, Name, Measure, Measure Info, Geo Type Name, Geo Join ID, Geo Place Name, Time Period, Start Date, Data Value, and Message. Through a meticulous process of data cleaning and visualization, I extracted meaningful insights that can inform both policymakers and the public.
 
@@ -6,6 +7,8 @@ Air quality is a critical aspect of urban life, influencing public health, envir
 Importing and Initial Visualization
 
 The first step was to import the dataset into Microsoft Excel. To understand the distribution of the data values, I created a box and whisker chart and a scatter plot chart.I took a step into analyzing this dataset from data.cityofnewyork.us on the air quality in New York. 
+![box plot](https://github.com/isatul/Air-Quality/assets/150124019/a759613d-5e13-4296-aca3-ceaea7fb52aa)
+![Scatter plot](https://github.com/isatul/Air-Quality/assets/150124019/b4bf2f86-9eb2-4641-b53d-c7df24102bee)
 
 
 Insights and Visualizations
